@@ -1,9 +1,9 @@
-<!doctype html>
+<!-- <!doctype html>
  <link rel="shortcut icon" href="favicon.ico">
 <html>
 <title>welcome to NeutriCart home page</title>
 <?php
-include('./others/navbar.php');
+// include('./others/navbar.php');
 ?>
 
 <body class="container">
@@ -61,4 +61,4 @@ if($row>0){
 
 </body>
 
-</html>
+</html> -->
