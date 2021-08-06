@@ -9,11 +9,12 @@ $host="17303";
 
 
 $con=new mysqli($servername, $username, $password,$dname);
-if(!$con){
-    echo "db connection failed";
+if($con==TRUE){
+    echo "connected to db";
 }
 else{
-    echo "connected to db";
+  echo "db connection failed";
+   
 }
 
 
