@@ -60,5 +60,7 @@ if($row>0){
     </div>
 
 </body>
-
+<?php
+include('./others/footer.php');
+?>
 </html>

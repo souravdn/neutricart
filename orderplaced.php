@@ -241,5 +241,7 @@ include('./others/navbar.php');
     <tr>
 
 </body>
-
+<?php
+include('./others/footer.php');
+?>
 </html>

@@ -60,4 +60,7 @@ include('./others/navbar.php');
 
 
 </body>
+<?php
+include('./others/footer.php');
+?>
 </html>

@@ -96,6 +96,9 @@
 
 
   </body>
+  <?php
+include('./others/footer.php');
+?>
 </html>
 
  
