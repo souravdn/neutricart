@@ -5,10 +5,10 @@ $servername="mysql-43037-0.cloudclusters.net";
   $username="sourav";
  $password="Debnath@1";
 $dname="neutrify";
-$host="17303";
+$PORT="17303";
 
 
-$con=new mysqli($servername, $username, $password,$dname);
+$con=new mysqli($servername, $username, $password,$dname,$PORT);
 if($con==TRUE){
     echo "connected to db";
 }
