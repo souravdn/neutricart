@@ -1,7 +1,7 @@
 <?php
 //connect to db
 
-$con=new mysqli("http://mysql-43037-0.cloudclusters.net/","admin","6DCiZH15");
+$con=new mysqli("163.123.183.80","admin","6DCiZH15");
 if(!$con){
     // echo "db connection failed";
 }
