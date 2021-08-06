@@ -2,11 +2,11 @@
 //connect to db
 $servername="mysql-43037-0.cloudclusters.net";
  $database="neutrify";
-  $username="admin";
+  $username="sourav";
  $password="6DCiZH15";
 
 
-$con=new mysqli("$servername"," $database", "$username", "$password");
+$con=new mysqli("$servername", "$username", "$password");
 if(!$con){
     // echo "db connection failed";
 }
