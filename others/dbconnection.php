@@ -2,8 +2,8 @@
 //connect to db
 $servername="mysql-43037-0.cloudclusters.net";
  $database="neutrify";
-  $username="sourav";
- $password="Debnath@1";
+  $username="admin";
+ $password="6DCiZH15";
 
 
 $con=new mysqli("$servername", "$username", "$password");
