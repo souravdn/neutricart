@@ -8,7 +8,7 @@ $dname="neutrify";
 $host="17303";
 
 
-$con=new mysqli($servername, $username, $password,$dname,$host);
+$con=new mysqli($servername, $username, $password);
 if(!$con){
     // echo "db connection failed";
 }
