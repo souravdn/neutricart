@@ -10,26 +10,20 @@ $PORT="17303";
 
 $con=new mysqli($servername, $username, $password,$dname,$PORT);
 if($con==TRUE){
-    echo "connected to db";
+//     echo "connected to db";
 }
 else{
-  echo "db connection failed";
+//   echo "db connection failed";
    
 }
 
 
 //select db
 if($con->query("USE neutrify")){
-    echo "db selected";
+//     echo "db selected";
 }
 else{
-    echo "db not selected";
-}
-
-$sql="SELECT * FROM `order_log` WHERE 1";
-$result=$con->query($sql);
-foreach($result as $value){
-echo "fuckoff". $value['fullname'];
+//     echo "db not selected";
 }
 
 ?>
