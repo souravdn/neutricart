@@ -3,7 +3,7 @@
 $servername="mysql-43037-0.cloudclusters.net";
  $database="neutrify";
   $username="sourav";
- $password="6DCiZH15";
+ $password="Debnath@1";
 
 
 $con=new mysqli("$servername", "$username", "$password");
