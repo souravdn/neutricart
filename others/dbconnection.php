@@ -4,7 +4,7 @@ $servername="mysql-43037-0.cloudclusters.net";
  $database="neutrify";
   $username="sourav";
  $password="Debnath@1";
-$dname="neutrify";
+// $dname="neutrify";
 $PORT="17303";
 
 
