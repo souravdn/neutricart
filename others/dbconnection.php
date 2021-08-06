@@ -2,8 +2,8 @@
 //connect to db
 $servername="mysql-43037-0.cloudclusters.net";
  $database="neutrify";
-  $username="admin";
- $password="6DCiZH15";
+  $username="sourav";
+ $password="Debnath@1";
 $dname="neutrify";
 $host="17303";
 
