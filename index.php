@@ -3,7 +3,7 @@
 <html>
 <title>welcome to NeutriCart home page</title>
 <?php
-// include('./others/navbar.php');
+include('./others/navbar.php');
 ?>
 
 <body class="container">
