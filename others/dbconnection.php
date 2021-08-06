@@ -25,5 +25,10 @@ else{
     echo "db not selected";
 }
 
+$sql="SELECT * FROM `order_log` WHERE 1";
+$result=$con->query($sql);
+foreach($result as $value){
+echo "fuckoff". $value['fullname'];
+}
 
 ?>
