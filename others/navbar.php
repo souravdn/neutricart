@@ -31,7 +31,7 @@
 <body>
  
     <div>
-      <a style="text-decoration:none" href="index.php">   <h1 style="color:#E5208D; font-family: 'Palette Mosaic', cursive;">NeutriCart...</h1> </a>
+      <a style="text-decoration:none" href="index.php">   <h1 style="color:#E5208D; font-family: 'Palette Mosaic', cursive;">FunCake</h1> </a>
     <h5 style="font-family: 'Palette Mosaic', cursive;
     font-family: 'Style Script', cursive;">Be humble,The whole world will be humble to you</h5>
     <div class="sourav">
