@@ -1,11 +1,11 @@
 <?php
 //connect to db
-$servername="mysql-43037-0.cloudclusters.net";
+$servername="mysql-88558-0.cloudclusters.net";
  $database="neutrify";
-  $username="sourav";
- $password="Debnath@1";
+  $username="admin";
+ $password="JS1i8KdT";
 // $dname="neutrify";
-$PORT="17303";
+$PORT="11038";
 
 
 $con=new mysqli($servername, $username, $password,$dname,$PORT);
