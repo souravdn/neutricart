@@ -1,29 +1,29 @@
 <?php
 //connect to db
 $servername="mysql-88558-0.cloudclusters.net";
- $database="neutrify";
+//  $database="neutrify";
   $username="admin";
  $password="JS1i8KdT";
-// $dname="neutrify";
+$dname="neutrify";
 $PORT="11038";
-
+//ieuhvevr
 
 $con=new mysqli($servername, $username, $password,$dname,$PORT);
 if($con==TRUE){
-//     echo "connected to db";
+    echo "connected to db";
 }
 else{
-//   echo "db connection failed";
+  echo "db connection failed";
    
 }
 
 
 //select db
 if($con->query("USE neutrify")){
-//     echo "db selected";
+    echo "db selected";
 }
 else{
-//     echo "db not selected";
+    echo "db not selected";
 }
 
 ?>
